@@ -1,2 +1,2 @@
-# NLP_ML-Bitirme-Projesi-
+# NLP_ML-Bitirme-Projesi
 Bitirme Projesi
