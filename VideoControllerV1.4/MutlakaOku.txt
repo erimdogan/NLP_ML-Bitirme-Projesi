@@ -1,0 +1,6 @@
+MongoDB.py dosyasındaki mongoDB adresleriniş düznelemen gerek
+
+pymongo.MongoClient("mongodb+srv://natsu:1234@cluster0.idnat.mongodb.net/test?retryWrites=true&w=majority")
+
+"mongodb+srv://natsu:1234@cluster0.idnat.mongodb.net/test?retryWrites=true&w=majority" buraya senin
+kendi mongoDB nin connect adresi yazılmalı
